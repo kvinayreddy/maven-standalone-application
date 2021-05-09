@@ -8,11 +8,11 @@
 	<packaging>jar</packaging>
 
 	<name>maven-stanalone-application</name>
-	<url>http://mithuntechnologies.com</url>
+	<url>http://itcaps.net</url>
 
 	<organization>
-		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<name>ITCAPS LLC</name>
+		<url>http://itcaps.net/</url>
 	</organization>
 	
 	<description>Maven Standalone Application</description>
